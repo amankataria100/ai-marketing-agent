@@ -197,4 +197,3 @@ You can also swap to Gemini or OpenAI by replacing the `client.messages.create()
 
 ---
 
-Built with ❤️ for the Vaij & Company assignment.
