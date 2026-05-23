@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const BASE_URL = import.meta.env.VITE_API_URL || '/api'
+const BASE_URL = 'https://ai-marketing-agent-bf25.onrender.com'
 
 export async function analyzeProduct({ file, brandName, productDescription, targetAudience }) {
   const formData = new FormData()
